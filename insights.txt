@@ -1,0 +1,15 @@
+1. Sales Show a Steady Upward Trend Over Time
+
+From 2014 to 2017, overall monthly sales increase gradually, with repeated seasonal peaks. 
+This indicates growing demand and possibly successful sales or marketing strategies over time.
+
+2. The West Region Generates the Highest Revenue
+
+Among all regions, the West contributes the most sales (~$725K), followed by East and Central. 
+The South region shows the lowest performance (~$392K).
+
+3. Technology and Furniture Drive the Most Revenue
+
+Technology contributes the highest sales (~$836K), followed closely by Furniture (~$742K). 
+Office Supplies generate the least revenue but still form a significant portion of overall 
+sales suggesting different pricing or purchase frequency patterns.
